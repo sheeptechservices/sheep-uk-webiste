@@ -1,0 +1,6 @@
+[03-Aug-2021 14:55:09 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[03-Aug-2021 14:55:09 America/Sao_Paulo] {"message":"Must provide your access_token to proceed","error":"unauthorized","status":401,"cause":[{"code":5,"description":"Must provide your access_token to proceed","data":null}]}
+[03-Aug-2021 18:25:33 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[03-Aug-2021 18:25:33 America/Sao_Paulo] {"message":"Must provide your access_token to proceed","error":"unauthorized","status":401,"cause":[{"code":5,"description":"Must provide your access_token to proceed","data":null}]}
+[03-Aug-2021 22:45:48 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[03-Aug-2021 22:45:48 America/Sao_Paulo] {"message":"Must provide your access_token to proceed","error":"unauthorized","status":401,"cause":[{"code":5,"description":"Must provide your access_token to proceed","data":null}]}
